@@ -2,7 +2,7 @@
 
  以型号为**KFR-35GW/BpR3DYA1+1**的空调为例，为了便于逐个解读，将型号进行编号①②③-④⑤⑥/⑦，依次讲解。 
 
- 该型号由两部分构成：斜杠前面的部分（①~⑥）是国产空调的统一通用标准；斜杠后面的部分（⑦）则是各厂商针对空调进行的自主命名。 ![img](G:/OneDrive%20-%20cumt.edu.cn/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E7%AC%94%E8%AE%B0/pictures/v2-2681352dcaa059a4d1a19bce8ab56bb0_b.jpg)
+ 该型号由两部分构成：斜杠前面的部分（①~⑥）是国产空调的统一通用标准；斜杠后面的部分（⑦）则是各厂商针对空调进行的自主命名。 ![img](https://raw.githubusercontent.com/shancumt/common_sense/master/air_conditioner/pictures1/1.jpg)
 
  **先看前半部分：KFR-35GW**
 
@@ -16,7 +16,7 @@
 
 空调匹数和制冷量的关系可以参照下面的表格。
 
- ![img](G:/OneDrive%20-%20cumt.edu.cn/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90/%E7%94%B5%E5%8A%9B%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E7%AC%94%E8%AE%B0/pictures/v2-9609e864141cfa3d96a648816e1a94a3_b.jpg) 
+ ![img](https://github.com/shancumt/common_sense/blob/master/air_conditioner/pictures1/2.jpg?) 
 
 ⑤处字母是空调内机样式代号，“G”代表挂式内机，“L”代表柜式内机。除此之外，还有“D”吊顶式内机以及“Q”嵌入式内机。
 
@@ -30,7 +30,7 @@
 
 最后，将两个部分组合起来便得到了型号为KFR-35GW/BpR3DYA1+1，我们可以根据型号读出，这是一台1.5匹挂壁式冷暖空调，变频，一级能效，采用R32制冷剂。
 
-作者：张lidia
+
 
 
 
