@@ -2,7 +2,8 @@
 
  以型号为**KFR-35GW/BpR3DYA1+1**的空调为例，为了便于逐个解读，将型号进行编号①②③-④⑤⑥/⑦，依次讲解。 
 
- 该型号由两部分构成：斜杠前面的部分（①~⑥）是国产空调的统一通用标准；斜杠后面的部分（⑦）则是各厂商针对空调进行的自主命名。 ![img](https://raw.githubusercontent.com/shancumt/common_sense/master/air_conditioner/pictures1/1.jpg)
+ 该型号由两部分构成：斜杠前面的部分（①~⑥）是国产空调的统一通用标准；斜杠后面的部分（⑦）则是各厂商针对空调进行的自主命名。
+ ![img](https://raw.githubusercontent.com/shancumt/common_sense/master/air_conditioner/pictures1/1.jpg)
 
  **先看前半部分：KFR-35GW**
 
